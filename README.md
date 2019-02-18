@@ -23,12 +23,16 @@ Ryzen 5 2600 + GTX 1070Ti
 1、train_list.txt---预训练数据，数据在17Pets文件夹中
 
 2、fine_tune_list.txt---微调数据2Pets文件夹中
-3、直接用选择性搜索的区域划分　　                       
-4、通过RCNN后的区域划分                 
+
+3、直接用选择性搜索的区域划分　　  
+
+4、通过RCNN后的区域划分
+
 5、通过SVM与边框回归之后的最终结果
 ![selectivesearch_1](https://github.com/king1srookie/rcnn/raw/master/result/1.PNG)
 ![RCNN_1](https://github.com/king1srookie/rcnn/raw/master/result/2.PNG)　　　
-![RCNN_2](https://github.com/king1srookie/rcnn/raw/master/result/3.PNG)                        
+![RCNN_2](https://github.com/king1srookie/rcnn/raw/master/result/3.PNG)
+                        
 
 
 
